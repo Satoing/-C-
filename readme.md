@@ -13,6 +13,6 @@
 ### 设计
 ![image](https://user-images.githubusercontent.com/68995451/144999617-72192fbd-b133-44cb-ab34-73d343b10a38.png)
 ### 运行：
-`$ make run`
+$ `make run`
 ### 运行截图
 ![image](https://user-images.githubusercontent.com/68995451/145000491-d1d276c6-8d9f-42f6-b480-14d021d4f05a.png)
