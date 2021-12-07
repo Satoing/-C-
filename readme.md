@@ -15,4 +15,4 @@
 ### 运行：
 `$ make run`
 ### 运行截图
-![image](https://user-images.githubusercontent.com/68995451/145000295-6a532e4c-e903-4cf1-955a-5c07727539f1.png)
+![image](https://user-images.githubusercontent.com/68995451/145000491-d1d276c6-8d9f-42f6-b480-14d021d4f05a.png)
